@@ -2,7 +2,10 @@ body {
     background-color: #CAFFFB;
 }
 
-h1,
-h2 {
+h1 {
     color:rgb(226, 64, 43);
+}
+
+h2 {
+    color:blueviolet;
 }
