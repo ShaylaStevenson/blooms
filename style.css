@@ -18,5 +18,34 @@ header h1 {
     color: black;
     font-size: 15vw;
     font-family: 'Leckerli One', cursive;
+}
 
+.nav {
+    background-color:pink;
+    border: 3px solid green;
+    border-top: none;
+    font-family: 'Leckerli One', cursive;
+    font-size: calc(12px + 1vw);
+    
+}
+
+.nav .nav-link {
+    color:black;
+    margin-left: 2vw;
+    margin-right: 2vw;
+    padding-top: 4px;
+    padding-bottom: 4px;
+}
+
+.nav .nav-link:hover {
+    color: green;
+}
+
+#Carousel {
+    /* background-color: black; */
+}
+
+.carousel-item img{
+    margin-left: auto;
+    margin-right: auto;
 }
